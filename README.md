@@ -28,3 +28,5 @@ buoy_plots/
 era5_comparison/
 └── year-month-day.mp4
 ```
+
+The trained models can't be accessed in this repository because of Github file limit size. You can send an email to yloo@tudelft.nl to request the trained models ```epoch_n.pth```. You can also train your own models from the package windscangeo.github.io. This package is meant to replicate the process of the project from GOES data extraction from AWS, training to inference.
